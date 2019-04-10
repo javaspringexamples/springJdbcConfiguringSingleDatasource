@@ -1,4 +1,4 @@
-# springJdbcConfiguringDatasource
+# springJdbcConfiguringSingleDatasource
 This example presents the basic concept of configuring a single datasource in Spring JDBC.
 
 The technologies used are :
